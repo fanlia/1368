@@ -407,7 +407,6 @@ habit
 service
 business
 homework
-job
 task
 project
 challenge
@@ -483,7 +482,6 @@ series
 career
 system
 language
-transport
 favor
 privillege
 mistake
@@ -565,7 +563,6 @@ intelligence
 memory
 skill
 tail
-wind
 flower
 leaf
 root
@@ -651,7 +648,6 @@ give
 take
 put
 lay
-place
 bring
 send
 hold
@@ -752,7 +748,6 @@ do
 become
 seem
 feel
-sound
 smell
 taste
 find
@@ -879,10 +874,8 @@ tape
 record
 post
 travel
-screw
 dig
 hide
-pack
 mark
 buy
 sell
@@ -921,7 +914,6 @@ copy
 prepare
 organize
 manage
-handle
 treat
 control
 use
@@ -945,9 +937,7 @@ swim
 fly
 shoot
 work
-interview
 hire
-fire
 compete
 retire
 read
@@ -993,7 +983,6 @@ slim
 narrow
 wide
 heavy
-light
 straight
 curved
 flat
@@ -1025,7 +1014,6 @@ sharp
 blunt
 raw
 pure
-pain
 even
 strong
 weak
@@ -1105,7 +1093,6 @@ disappointed
 jealous
 lonely
 easy
-hard
 difficult
 late
 due
@@ -1178,7 +1165,6 @@ native
 international
 cheap
 expensive
-separate
 public
 worth
 across
@@ -1247,7 +1233,6 @@ forth
 apart
 together
 aside
-extra
 alone
 quite
 much
@@ -1305,7 +1290,6 @@ each
 every
 few
 many
-much
 this
 that
 these
