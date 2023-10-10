@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1368</title>
+  </head>
+  <body>
+    <h1>1368</h1>
+    <h2>words</h2>
+    <div id="words">loading...</div>
+    <script type="module">
+      const $words = document.querySelector('#words')
+      const words = await fetch('dict.json').then(res => res.json())
+
+      const list_html = words.map(word => {
+        const [symbol] = word.symbols
+        const ph = symbol.ph_en
+        const parts_html = symbol.parts.map(part => {
+          return `
+          <li>
+            <strong>${part.part}</strong>
+            <span>${part.means.join(' ')}</span>
+          </li>
+          `
+        }).join('')
+        const item_html = `
+        <div>
+          <h3>${word.word_name}</h3>
+          <h4>[${ph}]</h4>
+          <ul>${parts_html}</ul>
+        </div>
+        `
+        return item_html
+      }).join('')
+      $words.innerHTML = list_html
+    </script>
+  </body>
+</html>

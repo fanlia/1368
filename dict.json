@@ -4379,16 +4379,6 @@
     ]
   },
   {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
     "word_name": "store",
     "is_CRI": 1,
     "exchange": {
@@ -5931,16 +5921,6 @@
     ],
     "items": [
       ""
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
     ]
   },
   {
@@ -10856,16 +10836,6 @@
     ]
   },
   {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
     "word_name": "fridge",
     "is_CRI": "1",
     "exchange": {
@@ -15526,16 +15496,6 @@
     ]
   },
   {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
     "word_name": "boy",
     "is_CRI": "1",
     "exchange": {
@@ -16661,16 +16621,6 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
       }
     ]
   },
@@ -23413,16 +23363,6 @@
     ]
   },
   {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
     "word_name": "mistake",
     "is_CRI": "1",
     "exchange": {
@@ -28137,16 +28077,6 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
       }
     ]
   },
@@ -40243,26 +40173,6 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
       }
     ]
   },
@@ -56003,16 +55913,6 @@
     ]
   },
   {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
     "word_name": "interested",
     "is_CRI": "1",
     "exchange": {
@@ -59461,16 +59361,6 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
       }
     ]
   },
@@ -66478,16 +66368,6 @@
     ]
   },
   {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
     "word_name": "you",
     "is_CRI": 1,
     "exchange": {
@@ -67320,26 +67200,6 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
-      }
-    ]
-  },
-  {
-    "symbols": [
-      {
-        "ph_am_mp3": "",
-        "ph_en_mp3": "",
-        "ph_tts_mp3": "",
-        "ph_other": ""
       }
     ]
   },
