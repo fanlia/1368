@@ -5,8 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>1368</title>
     <style>
+      .word {
+        cursor: pointer;
+      }
       .word:hover {
         background: #eee;
+      }
+      .word.remembered h3 {
+        color: green;
       }
     </style>
   </head>
@@ -31,7 +37,7 @@
           `
         }).join('')
         const item_html = `
-        <div class="word">
+        <div class="word" onclick="this.classList.toggle('remembered')">
           <h3>${word.word_name}</h3>
           <h4>[${ph}]</h4>
           <ul>${parts_html}</ul>
