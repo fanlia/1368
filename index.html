@@ -4,11 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>1368</title>
+    <style>
+      .word:hover {
+        background: #eee;
+      }
+    </style>
   </head>
   <body>
     <h1>1368</h1>
     <h2>words</h2>
     <div id="words">loading...</div>
+    <button style="position:fixed;bottom:1rem;right:1rem;" onclick="window.scrollTo({top: 0})">&uarr;</button>
     <script type="module">
       const $words = document.querySelector('#words')
       const words = await fetch('dict.json').then(res => res.json())
@@ -25,7 +31,7 @@
           `
         }).join('')
         const item_html = `
-        <div>
+        <div class="word">
           <h3>${word.word_name}</h3>
           <h4>[${ph}]</h4>
           <ul>${parts_html}</ul>
